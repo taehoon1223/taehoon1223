@@ -27,10 +27,23 @@
 ---
 
 ## 🛠️ Tech Stack
-**ML/DL**: PyTorch, OpenCLIP  
-**CV/Detection**: YOLOv8, OpenCV  
-**Retrieval**: FAISS  
-**Frontend/UI**: Streamlit  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-yellow)
+![OpenCLIP](https://img.shields.io/badge/OpenCLIP-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-black)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F7931E?logo=huggingface&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-API-lightgrey)
+
 
 ---
 
