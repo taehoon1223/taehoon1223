@@ -19,7 +19,7 @@
 - **Key**: 요약→질문생성→질문필터링 3-단계, 멀티모달 임베딩, 캐시/임베딩 저장·로드
 - **Repo**: https://github.com/taehoon1223/PlugIR-inspired-CLIP-based-Interactive-Product-Search
 
-### 2) YOLOv8 Lost-Item Detection (Taxi)
+### 2) yolov8-lostitem-pruning
 - **Stack**: YOLOv8, PyTorch, OpenCV
 - **Key**: 분실물(휴대폰 등) 탐지 시나리오, mAP/MACs 평가, 경량화 실험 계획 포함
 - **Repo**: https://github.com/taehoon1223/YOLOv8-LostItem-Detection
