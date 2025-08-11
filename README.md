@@ -7,14 +7,14 @@ AI & 로보틱스 분야에 관심이 많으며, 멀티모달 검색, 객체 탐
 
 ## 🔗 Quick Links
 - Portfolio / Blog: *(추가 예정)*
-- Email: *(추가 예정)*
+- Email: yth91111@naver.com
 - LinkedIn: *(추가 예정)*
 
 ---
 
 ## ✨ Highlights
 - 🔍 CLIP 기반 **대화형 쇼핑 검색 시스템** (OpenCLIP + FAISS + GPT, PlugIR 방식)
-- 🧠 YOLOv8, Torch-Pruning으로 **모델 경량화 & mAP 평가 파이프라인**
+- 📦 YOLOv8 기반 **택시 분실물 탐지 및 모델 경량화** (mAP/MACs 평가 포함)
 
 ---
 
@@ -51,10 +51,10 @@ AI & 로보틱스 분야에 관심이 많으며, 멀티모달 검색, 객체 탐
 
 ## 📚 Recent Work
 - 2025: PlugIR 방식 대화형 쇼핑 도우미 (OpenCLIP + FAISS + GPT)
-- 2024: YOLOv8 경량화 자동화 파이프라인 (mAP/MACs)
+- 2024: YOLOv8 기반 택시 분실물 탐지 및 모델 경량화 (mAP/MACs)
 
 ---
 
 ## 📬 Contact
-- Email: *(추가 예정)*
+- Email: yth91111@naver.com
 - Blog: *(추가 예정)*
