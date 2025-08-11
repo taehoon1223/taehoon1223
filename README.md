@@ -14,7 +14,7 @@
 ## 🧪 Featured Projects
 <!-- **Pinned Repos**에 고정하기 좋은 후보들입니다. -->
 
-### 1) PlugIR-Inspired: CLIP-based Interactive Product Search
+### 1) yolov8-lostitem-pruning
 - **Stack**: OpenCLIP, FAISS, Python, Streamlit, GPT
 - **Key**: 요약→질문생성→질문필터링 3-단계, 멀티모달 임베딩, 캐시/임베딩 저장·로드
 - **Repo**: https://github.com/taehoon1223/PlugIR-inspired-CLIP-based-Interactive-Product-Search
