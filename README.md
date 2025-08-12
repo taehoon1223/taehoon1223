@@ -68,7 +68,7 @@
 
 ---
 
-##🎓 Certificates / Education  
+## 🎓 Certificates / Education  
 📜 *(추가 예정)*  
 🎓 전공: 전자공학과 
 🧪 AI 자동차 연구실 인턴 (1년)  
