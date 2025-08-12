@@ -44,7 +44,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-API-lightgrey)
 
-
+<!--
 ---
 
 ## 📈 Stats & Trophies (옵션)
@@ -52,7 +52,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehoon1223&layout=compact)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taehoon1223&theme=algolia&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 ---
 
 ## 📚 Recent Work
