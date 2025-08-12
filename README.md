@@ -1,7 +1,7 @@
 ## 🔗 Quick Links
-- Portfolio / Blog: *(https://velog.io/@taehoon1223/posts)*
+- Blog: *(https://velog.io/@taehoon1223/posts)*
 - Email: *(yth91111@naver.com)*
-- LinkedIn: *(추가 예정)*
+- Portfolio: *(추가 예정)*
 
 ---
 
