@@ -1,6 +1,6 @@
 ## 🔗 Quick Links
-- Portfolio / Blog: *(추가 예정)*
-- Email: yth91111@naver.com
+- Portfolio / Blog: *(https://velog.io/@taehoon1223/posts)*
+- Email: *(yth91111@naver.com)*
 - LinkedIn: *(추가 예정)*
 
 ---
@@ -63,4 +63,4 @@
 
 ## 📬 Contact
 - Email: yth91111@naver.com
-- Blog: *(추가 예정)*
+- Blog: *(https://velog.io/@taehoon1223/posts)*
