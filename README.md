@@ -7,6 +7,7 @@
 
 ## ✨ Highlights
 - 🔍 CLIP 기반 **대화형 쇼핑 검색 시스템** (OpenCLIP + FAISS + GPT, PlugIR 방식)
+- 🛣️ ROS 기반 **실시간 차선 인식 및 모델식 추출 시스템** (HSV 필터링 + BEV 변환 + 다항식 피팅)
 - 📦 YOLOv8 기반 **택시 분실물 탐지 및 모델 경량화** (mAP/MACs 평가 포함)
 
 ---
@@ -18,8 +19,13 @@
 - **Stack**: OpenCLIP, FAISS, Python, Streamlit, GPT
 - **Key**: 요약→질문생성→질문필터링 3-단계, 멀티모달 임베딩, 캐시/임베딩 저장·로드
 - **Repo**: https://github.com/taehoon1223/PlugIR-inspired-CLIP-based-Interactive-Product-Search
-
-### 2) yolov8-lostitem-pruning
+- 
+### 2) lane-line-fitting
+- **Stack**: ROS, OpenCV, Python, NumPy
+- **Key**: HSV 색상 필터링, Bird Eye View 변환, 3차 다항식 피팅, 직선/곡선 차선 모델식 계산
+- **Repo**: https://github.com/taehoon1223/lane-line-fitting
+- 
+### 3) yolov8-lostitem-pruning
 - **Stack**: YOLOv8, PyTorch, OpenCV
 - **Key**: 분실물(휴대폰 등) 탐지 시나리오, mAP/MACs 평가, 경량화 실험 계획 포함
 - **Repo**: https://github.com/taehoon1223/YOLOv8-LostItem-Detection
@@ -43,6 +49,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-API-lightgrey)
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
 
 <!--
 ---
@@ -57,6 +64,7 @@
 
 ## 📚 Recent Work
 - 2025: PlugIR 방식 대화형 쇼핑 도우미 (OpenCLIP + FAISS + GPT)
+- 2025: lane-line-fitting (OpenCLIP + FAISS + GPT)
 - 2024: YOLOv8 기반 택시 분실물 탐지 및 모델 경량화 (mAP/MACs)
 
 ---
