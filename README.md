@@ -63,9 +63,9 @@
 ---
 
 ## 📚 Recent Work
-- 2025: PlugIR 방식 대화형 쇼핑 도우미 (OpenCLIP + FAISS + GPT)
-- 2025: lane-line-fitting (OpenCLIP + FAISS + GPT)
-- 2024: YOLOv8 기반 택시 분실물 탐지 및 모델 경량화 (mAP/MACs)
+- 2025: PlugIR 방식 대화형 쇼핑 도우미
+- 2025: lane-line-fitting 
+- 2024: YOLOv8 기반 택시 분실물 탐지 및 모델 경량화
 
 ---
 
