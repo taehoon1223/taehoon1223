@@ -5,13 +5,6 @@
 
 ---
 
-## ✨ Highlights
-- 🔍 CLIP 기반 **대화형 쇼핑 검색 시스템** (OpenCLIP + FAISS + GPT, PlugIR 방식)
-- 🛣️ ROS 기반 **실시간 차선 인식 및 모델식 추출 시스템** (HSV 필터링 + BEV 변환 + 다항식 피팅)
-- 📦 YOLOv8 기반 **택시 분실물 탐지 및 모델 경량화** (mAP/MACs 평가 포함)
-
----
-
 ## 🧪 Featured Projects
 <!-- **Pinned Repos**에 고정하기 좋은 후보들입니다. -->
 
