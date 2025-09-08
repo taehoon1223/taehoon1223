@@ -1,7 +1,6 @@
 ## 🔗 Quick Links
 - Blog: *(https://velog.io/@taehoon1223/posts)*
 - Email: *(yth91111@naver.com)*
-- Portfolio: *(추가 예정)*
 
 ---
 
@@ -47,18 +46,7 @@
 <!--
 ---
 
-## 📈 Stats & Trophies (옵션)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taehoon1223&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehoon1223&layout=compact)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=taehoon1223&theme=algolia&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
--->
----
-
-## 📚 Recent Work
-- 2025: PlugIR 방식 대화형 쇼핑 도우미
-- 2025: lane-line-fitting 
-- 2024: YOLOv8 기반 택시 분실물 탐지 및 모델 경량화
 
 ---
 
@@ -67,15 +55,3 @@
 🏅 2024 미래형 이동수단 자작 경진대회 (2024.08) - 특별상  
 🏅 제3회 미래모빌리티 자율주행 경진대회 (2024.08) - 장려상  
 
----
-
-## 🎓 Certificates / Education  
-📜 자격증: *(추가 예정)*  
-🎓 전공: 전자공학과  
-🧪 AI 자동차 연구실 인턴 (1년)  
-
----
-
-## 📬 Contact
-- Email: yth91111@naver.com
-- Blog: *(https://velog.io/@taehoon1223/posts)*
