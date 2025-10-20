@@ -11,12 +11,12 @@
 - **Stack**: OpenCLIP, FAISS, Python, Streamlit, GPT
 - **Key**: 요약→질문생성→질문필터링 3-단계, 멀티모달 임베딩, 캐시/임베딩 저장·로드
 - **Repo**: https://github.com/taehoon1223/PlugIR-inspired-CLIP-based-Interactive-Product-Search
-- 
+
 ### 2) lane-line-fitting
 - **Stack**: ROS, OpenCV, Python, NumPy
 - **Key**: HSV 색상 필터링, Bird Eye View 변환, 3차 다항식 피팅, 직선/곡선 차선 모델식 계산
 - **Repo**: https://github.com/taehoon1223/lane-line-fitting
-- 
+
 ### 3) yolov8-lostitem-pruning
 - **Stack**: YOLOv8, PyTorch, OpenCV
 - **Key**: 분실물(휴대폰 등) 탐지 시나리오, mAP/MACs 평가, 경량화 실험 계획 포함
